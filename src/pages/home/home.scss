@@ -1,0 +1,52 @@
+page-home {
+
+}
+
+.container-pesquisa{
+    height: 15%;
+}
+
+.botao-add{
+    border:none;
+    box-shadow: none;
+    width: 3.5rem;
+    height: 3.5rem;
+    position: absolute;
+    float: right;
+    bottom:2rem;
+    right: 2rem;
+    border-radius: 100%;
+    z-index: 100;
+}
+
+.container-card{
+    align-items: flex-start;
+}
+
+.card{
+    background-color: #4C4954;
+    border-top: solid 0.2em;
+    width: 90%;
+    height: 100px;
+    margin: 10px;
+}
+
+.card-verde{
+    border-color: rgba(4, 255, 0, 0.5);
+}
+
+.card-vermelho{
+    border-color: rgba(255, 0, 0, 0.5);
+}
+
+.card-amarelo{
+    border-color: rgba(235, 255, 0, 0.5);
+}
+
+.card-cinza{
+    border-color: #C4C4C4;
+}
+
+
+
+
